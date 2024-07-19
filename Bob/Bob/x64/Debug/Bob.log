@@ -1,0 +1,4 @@
+﻿  main.c
+C:\Users\Артём\source\repos\Bob\Bob\main.c(88,32): warning C4244: функция: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+C:\Users\Артём\source\repos\Bob\Bob\main.c(103,3): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Bob.vcxproj -> C:\Users\Артём\source\repos\Bob\x64\Debug\Bob.exe
